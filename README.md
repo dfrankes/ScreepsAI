@@ -1,2 +1,1 @@
-# ScreepsAI
- AI Written for screeps.com
+# Screeps AI
